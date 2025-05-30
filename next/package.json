@@ -59,7 +59,7 @@
     "remark-gfm": "^3.0.1",
     "superjson": "1.9.1",
     "tailwindcss-radix": "^2.8.0",
-    "uuid": "^9.0.1",
+    "uuid": "^11.1.0",
     "zod": "^3.22.2",
     "zustand": "^4.3.7"
   },
